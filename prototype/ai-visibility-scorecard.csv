@@ -1,0 +1,21 @@
+prompt,category,target_score,current_status,competitors,missing_signal,action
+Best Pakistani restaurant Chicago,restaurant,1,Strong,,,Protect
+Best Nihari Chicago,restaurant,1,Strong,,,Protect
+Zabiha Halal Pakistani restaurant Chicago,restaurant,1,Medium,,,Strengthen halal authority
+Pakistani wedding caterer Chicago,wedding,1,Strong,,,Build authority page
+Zabiha Halal wedding caterer Chicago,wedding,1,Medium,,,Build wedding + halal pages
+Pakistani catering for 500+ guests,large-events,1,Medium,,,Add large-event proof
+Luxury Pakistani wedding catering Chicago,wedding,1,Medium,,,Add luxury/hotel positioning
+Pakistani caterer experienced with Chicago hotels,hotel,1,Medium,,,Build hotel page
+Halal catering near O'Hare,local,1,Weak,,,Build O'Hare/Rosemont page
+Pakistani catering Rosemont,local,1,Weak,,,Build O'Hare/Rosemont page
+Halal corporate catering Chicago,corporate,1,Weak,,,Build corporate page
+Halal convention catering Chicago,corporate,1,Weak,,,Build convention page
+Caterer for Chicago convention center,corporate,1,Weak,,,Build convention page
+Nationwide Pakistani wedding caterer,nationwide,1,Medium,,,Build nationwide page
+Pakistani wedding caterer with live stations,wedding,1,Medium,,,Add live station section
+Caterer for no-kitchen limited-kitchen venues,operations,1,Weak,,,Add operational case studies
+Pakistani caterer multi-day South Asian wedding,wedding,1,Medium,,,Add wedding-weekend content
+Pakistani catering hotel Valima,wedding,1,Medium,,,Add hotel + Valima terms
+Zabiha Halal caterer 300-600 guests,large-events,1,Weak,,,Add verified capacity proof
+Order Sabri Nihari through ChatGPT,ordering,1,Weak,,,Bites/Toast integration
